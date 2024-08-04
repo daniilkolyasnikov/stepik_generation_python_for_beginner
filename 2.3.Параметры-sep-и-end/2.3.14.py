@@ -1,0 +1,5 @@
+n1 = input()
+n2 = input()
+n3 = input()
+n4 = input()
+print(n2, n3, n4, sep=n1)
